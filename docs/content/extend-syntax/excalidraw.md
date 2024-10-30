@@ -4,7 +4,7 @@ description = ""
 weight = 10
 +++
 
-{{%alert%}}It’s required to activate Auto-Export SVG / PNG in Excalidraw Settings.{{%/alert%}}
+{{%alert%}}It’s required to activate Auto-Export SVG / PNG in Excalidraw Settings. You also need to make sure that the excalidraw files have the `.excalidraw.md` extension, not `.md`.{{%/alert%}}
 
 ```md
 #### Excalidraw support
